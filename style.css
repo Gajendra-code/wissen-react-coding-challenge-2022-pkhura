@@ -1,0 +1,22 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+h1,
+p {
+  font-family: Lato;
+}
+.error {
+  color: red;
+}
+.success {
+  color: green;
+}
+.dark-blue.disabled {
+  cursor: not-allowed;
+  background: rgb(139, 150, 161) !important;
+  color: #0044ff !important;
+  border-color: rgb(139, 150, 161) !important;
+}
+.dark-blue {
+  background: #0044ff !important;
+  color: white !important;
+  border-color: #0044ff !important;
+}
